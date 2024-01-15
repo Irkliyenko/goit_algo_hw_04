@@ -1,5 +1,4 @@
 def insertion_sort(lst):
-    lst = lst[:]
     for i in range(1, len(lst)):
         key = lst[i]
         j = i-1

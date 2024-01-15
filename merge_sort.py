@@ -28,7 +28,6 @@ def merge(left, right):
     # Append remaining elements (if any) from left and right
     merged.extend(left[left_index:])
     merged.extend(right[right_index:])
-
     return merged
 
 
