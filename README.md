@@ -1,4 +1,4 @@
-# **Performance Analysis of Sorting Algorithms**
+**Performance Analysis of Sorting Algorithms**
 
 In this analysis, I compared the performance of four sorting algorithms: Insertion Sort, Merge Sort, and Python's Timsort (used in the sorted() function and .sort() method). Two different list sizes were used for the tests: a small list (ls1) with 1000 elements and a medium-sized list (ls2) with 10000 elements.
 
